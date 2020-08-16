@@ -1,0 +1,56 @@
+D:\assignment program\assignmentAPI\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.deps.json
+D:\assignment program\assignmentAPI\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.json
+D:\assignment program\assignmentAPI\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.dev.json
+D:\assignment program\assignmentAPI\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csprojAssemblyReference.cache
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csproj.CoreCompileInputs.cache
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cache
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cs
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfoInputs.cache
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfo.cs
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorTargetAssemblyInfo.cache
+D:\assignment program\assignmentAPI\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\assignmentAPI\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.deps.json
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.json
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.dev.json
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csprojAssemblyReference.cache
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csproj.CoreCompileInputs.cache
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cache
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cs
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfoInputs.cache
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfo.cs
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorTargetAssemblyInfo.cache
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\assignmentAPI - Copy\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.deps.json
+D:\assignment program\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.json
+D:\assignment program\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.dev.json
+D:\assignment program\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csprojAssemblyReference.cache
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csproj.CoreCompileInputs.cache
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cache
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cs
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfoInputs.cache
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfo.cs
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorTargetAssemblyInfo.cache
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.deps.json
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.json
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.runtimeconfig.dev.json
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\bin\Debug\netcoreapp2.1\assignmentAPI.pdb
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csprojAssemblyReference.cache
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.csproj.CoreCompileInputs.cache
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cache
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorAssemblyInfo.cs
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfoInputs.cache
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.AssemblyInfo.cs
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.RazorTargetAssemblyInfo.cache
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.dll
+D:\assignment program\Tatvasoft\APIAssignment\assignmentAPI\obj\Debug\netcoreapp2.1\assignmentAPI.pdb
